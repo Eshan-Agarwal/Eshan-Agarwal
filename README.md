@@ -22,7 +22,7 @@
 ## <whoami/>
 
 <details>
-<summary>Student at <a href="https://iith.ac.in/">GGSIPU</a> 👨‍🎓</summary>
+<summary>Student at <a href="http://www.ipu.ac.in/">GGSIPU</a> 👨‍🎓</summary>
 <ul>
   <li>Final year, B. Tech (2017- exp 2021).</li>
   <li>Majoring in Electrical & Electronics Engineering.</li>
