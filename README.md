@@ -25,7 +25,7 @@
 <ul>
     <li>I am Eshan Agarwal, Graduated from GGSIPU, New Delhi, majored in EEE with 8.2 CGPA</li>
   <li>Currently I am SDE1 - Backend @ Expedia Group, where I am trying to make travel easy by providing post stay experience</li>
-  <li>I am passionate code with coffee and stylus on my desk</li>
+  <li>I am passionate coder with coffee and stylus on my desk</li>
     <li>Also I am DSA Mentor at upGrad, where I am sharing my coding knowledge with students</li>
     <li>I am from Rajasthan, Bikaner, and I love Rajasthan for their culture, forts and royalty.</li>
    
